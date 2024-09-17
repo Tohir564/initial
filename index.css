@@ -1,0 +1,75 @@
+@font-face {
+       font-family: figtree ;
+       src: url(Figtree-ExtraBold.woff2);
+}
+
+@font-face {
+       font-family: figtreei ;
+       src: url(Figtree-Light.woff);
+      
+}
+
+
+
+
+body { background-color:hsl(47, 88%, 63%);
+       font-family: figtree;
+       
+       
+
+}
+
+
+.maincontainer { padding: 20px;
+                 border-style: solid; 
+                 background-color: whitesmoke; 
+                 border-radius: 16px;
+                 width: 380px;
+                 height:510px;
+                 box-shadow: black 10px 10px;
+                 border-width: 1px;
+                 
+
+
+.illustrationimg { width: 380px ;
+                   border-radius: 8px;
+                      
+              }
+
+.Learn { padding: 7px;
+         border: 0px;
+         background-color:hsl(47, 88%, 63%);
+         width: 70px;
+         border-radius: 4px;
+         text-align: center;
+         font-weight: 800;
+         font-family: figtree;
+} }
+
+.icon { position: relative;
+        
+             
+}
+
+
+
+
+.greg { position: relative;
+        bottom: 48px ;
+        left: 53px;
+        font-size: 15px;       
+ }
+
+ .illustrationimg2 { width: 40px; }
+
+
+        
+
+
+ .html { font-size: 30px; }
+
+ .publish{ font-family: figtreei;
+           font-weight: 600;          
+}
+
+ .these { font-family: Figtreei; }
